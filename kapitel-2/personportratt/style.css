@@ -1,0 +1,27 @@
+body {background-image: url(./bilder/mariia-berezovsky-jtRkbtUHsps-unsplash.jpg);
+background-size: 1400px;
+}
+
+h1{
+    color:green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200px;
+    margin-left: 200px;
+}
+
+p{width: 1200px;
+     margin-left: 100px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+table{
+    margin-left: 580px;
+    background-color: white;
+}
+img{width: 500px;
+    margin-left: 450px;
+}
+caption{margin-right: 00px;
+background-color: black;
+-webkit-text-fill-color: white;
+}
