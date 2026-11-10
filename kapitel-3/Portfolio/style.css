@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+}
+
+img{
+   max-width: 100%;
+   height: auto;
+}
+
+body {
+    background-color: darkblue;
+}
+
+.kontainer {
+    background-color: blue;
+    width: 900px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kolumner {
+    display: flex;
+}
+
+.camping {
+
+}
+
+.ruta {
+    background-color: aqua;
+    padding: 30px;
+    width: 300px;
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.cirkel {
+     background-color: aqua;
+    padding: 30px;
+    width: 300px;
+    gap: 20px;
+    margin-top: 30px;
+}
